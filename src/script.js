@@ -210,7 +210,7 @@ portfolioWebsite.addEventListener("click", () => {
     languages.innerText = "html,css,Tailwind cs,javascript";
     preview.innerText = "Portfolio";
     preview.addEventListener("click", () => {
-        open("https://github.com/ds092002/frontend/blob/main/tailwind/website");
+        open("https://github.com/ds092002/Portfolio");
     });
     ProjectImage.src = "./assets/protfolio.png";
 
